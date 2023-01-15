@@ -1,7 +1,6 @@
 {
   "name": "super-basic-2d-calculator",
   "version": "0.1.0",
-  "homepage": "https://elikson.github.io/super-basic-2d-calculator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
