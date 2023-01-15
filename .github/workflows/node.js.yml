@@ -28,7 +28,8 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: npm run build
-  run: |
-    git config --global user.name Elikson Tavares
-    git config --global user.email Eliksonbt.eks@gmail.com
-    npm run deploy
+    - name: Deploy
+    - run: |
+        git config --global user.name 'Elikson Tavares'
+        git config --global user.email Eliksonbt.eks@gmail.com
+        npm run deploy
