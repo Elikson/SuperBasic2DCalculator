@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/super-basic-2d-calculator/static/css/main.09f7bb52.css",
+    "main.js": "/super-basic-2d-calculator/static/js/main.774b8d7d.js",
+    "static/media/background-device.png": "/super-basic-2d-calculator/static/media/background-device.2340b58c62665e7d2762.png",
+    "index.html": "/super-basic-2d-calculator/index.html",
+    "main.09f7bb52.css.map": "/super-basic-2d-calculator/static/css/main.09f7bb52.css.map",
+    "main.774b8d7d.js.map": "/super-basic-2d-calculator/static/js/main.774b8d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f7bb52.css",
+    "static/js/main.774b8d7d.js"
+  ]
+}
