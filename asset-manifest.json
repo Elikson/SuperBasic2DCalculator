@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SuperBasic2DCalculator/static/css/main.09f7bb52.css",
-    "main.js": "/SuperBasic2DCalculator/static/js/main.f132c5da.js",
+    "main.js": "/SuperBasic2DCalculator/static/js/main.403f984d.js",
     "static/media/background-device.png": "/SuperBasic2DCalculator/static/media/background-device.2340b58c62665e7d2762.png",
     "index.html": "/SuperBasic2DCalculator/index.html",
     "main.09f7bb52.css.map": "/SuperBasic2DCalculator/static/css/main.09f7bb52.css.map",
-    "main.f132c5da.js.map": "/SuperBasic2DCalculator/static/js/main.f132c5da.js.map"
+    "main.403f984d.js.map": "/SuperBasic2DCalculator/static/js/main.403f984d.js.map"
   },
   "entrypoints": [
     "static/css/main.09f7bb52.css",
-    "static/js/main.f132c5da.js"
+    "static/js/main.403f984d.js"
   ]
 }
