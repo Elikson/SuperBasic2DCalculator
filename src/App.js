@@ -53,7 +53,7 @@ function App() {
       </Grid>
 
       <div class="footer">
-        <p>Super Basic 2D - Android Game Lib | Treinamento disponível na <a href="udemy.com">Udemy</a></p>
+        <p>Super Basic 2D - Android Game Lib | Treinamento disponível na <a target="_blank" href="https://www.udemy.com/course/desenvolvimento-de-jogos-para-android-com-android-studio">Udemy</a></p>
       </div>
     </Container >
   )
